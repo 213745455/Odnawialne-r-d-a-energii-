@@ -1,0 +1,23 @@
+body 
+
+{font-family:arial;
+text-align: center; 
+color:rgb(0,0,128)} 
+img
+{width:700px}
+header {
+	background-color:white;
+    padding: 1px;
+	 width: 100%;
+    position: fixed;
+	text-align: center;
+	top: 0;	
+	left:0;
+	z-index:2;
+border-bottom: 1px solid black}
+.menu a { margin: 0 0.5em;}
+.center {
+  margin: auto;
+  width: 70%;
+  border: 1px solid gray;
+  padding: 10px;}
